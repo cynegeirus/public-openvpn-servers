@@ -2,31 +2,12 @@
 
 This repository contains configuration files for multiple OpenVPN servers. These files can be used to connect to various VPN servers in different locations worldwide.
 
-## List of Available Servers
-
-The following OpenVPN configuration files are available in this repository:
-
-- **saop.ovpn** - São Paulo, Brazil
-- **sydney.ovpn** - Sydney, Australia
-- **tokyo.ovpn** - Tokyo, Japan
-- **toronto.ovpn** - Toronto, Canada
-- **zurich.ovpn** - Zurich, Switzerland
-- **belgium.ovpn** - Belgium
-- **bursa.ovpn** - Bursa, Turkey
-- **finland.ovpn** - Finland
-- **frankurt.ovpn** - Frankfurt, Germany
-- **istanbul.ovpn** - Istanbul, Turkey
-- **lasvegas.ovpn** - Las Vegas, USA
-- **london.ovpn** - London, UK
-- **melb.ovpn** - Melbourne, Australia
-- **montreal.ovpn** - Montreal, Canada
-
 ## How to Use
 
 1. Clone or download the repository to your local machine.
 
    ```bash
-   git clone https://github.com/cynegeirus/public-openvpn-config.git
+   git clone https://github.com/cynegeirus/public-openvpn-servers.git
    ```
 
 2. Choose the OpenVPN configuration file that corresponds to the server location you want to connect to.
